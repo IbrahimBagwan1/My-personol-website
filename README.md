@@ -32,4 +32,4 @@ Welcome to my personal portfolio website project! This site is designed and deve
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/IbrahimBagwan1/My-personol-website.git)
+git clone https://github.com/IbrahimBagwan1/My-personol-website.git
