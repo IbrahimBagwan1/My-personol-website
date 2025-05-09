@@ -1,4 +1,5 @@
 # 💻 Personal Portfolio Website
+![Home Page Screenshot](home_page.png)
 
 Welcome to my personal portfolio website project! This site is designed and developed using **pure HTML, CSS, and JavaScript**. It is a fully responsive website that displays my skills, projects, and contact information. The goal is to create a simple yet professional platform to represent my work and experience.
 
